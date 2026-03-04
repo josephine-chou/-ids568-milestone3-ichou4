@@ -69,7 +69,7 @@
 
 | Run ID | thundering-conch-919 |
 
-| Code Version | Git commit: [to be filled after GitHub push] |
+| Code Version | Git commit: YOUR_COMMIT_HASH |
 
 | Data Version | run_date: 20260304 |
 
